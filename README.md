@@ -2,7 +2,7 @@
 
 ## editando o perfil
 
-- 👋 olá, eu sou @Beatriz1234edduardao
+- 👋 olá, eu sou @Beatriz1234edduarda
 - :+1: meu email de contato é vargas.beatriz@escola.pr.gov.br
 - 👀 eu estou interessada em programar novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath.
